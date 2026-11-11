@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "b0000004-0000-4000-8000-000000000004",
+  "name": "estrada_grama",
+  "symbol": "bg_estrada_grama",
+  "tileColors": "",
+  "filename": "estrada_grama.png",
+  "width": 20,
+  "height": 200,
+  "imageWidth": 160,
+  "imageHeight": 1600,
+  "autoColor": true
+}

@@ -1,0 +1,46 @@
+{
+  "_resourceType": "trigger",
+  "id": "e3000000-0003-4000-8000-000000000001",
+  "_index": 0,
+  "symbol": "trigger_fase_3_mar_finish",
+  "prefabId": "",
+  "name": "Linha de Chegada",
+  "x": 5,
+  "y": 16,
+  "width": 10,
+  "height": 3,
+  "prefabScriptOverrides": {},
+  "script": [
+    {
+      "id": "e3000000-0003-4000-8000-000000000002",
+      "command": "EVENT_SOUND_PLAY_EFFECT",
+      "args": {
+        "type": "beep",
+        "priority": "high",
+        "pitch": 7,
+        "frequency": 200,
+        "duration": 0.2,
+        "wait": false,
+        "effect": 0
+      }
+    },
+    {
+      "id": "e3000000-0003-4000-8000-000000000003",
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "d0000005-0000-4000-8000-000000000005",
+        "x": {
+          "type": "number",
+          "value": 9
+        },
+        "y": {
+          "type": "number",
+          "value": 194
+        },
+        "direction": "up",
+        "fadeSpeed": "2"
+      }
+    }
+  ],
+  "leaveScript": []
+}

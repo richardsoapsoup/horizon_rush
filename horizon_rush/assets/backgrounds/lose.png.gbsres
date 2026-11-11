@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "b0000002-0000-4000-8000-000000000002",
+  "name": "lose",
+  "symbol": "bg_lose",
+  "tileColors": "",
+  "filename": "lose.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}

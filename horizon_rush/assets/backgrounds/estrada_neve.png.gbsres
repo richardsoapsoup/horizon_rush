@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "b0000007-0000-4000-8000-000000000007",
+  "name": "estrada_neve",
+  "symbol": "bg_estrada_neve",
+  "tileColors": "",
+  "filename": "estrada_neve.png",
+  "width": 20,
+  "height": 200,
+  "imageWidth": 160,
+  "imageHeight": 1600,
+  "autoColor": true
+}
